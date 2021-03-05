@@ -34,7 +34,7 @@ document.addEventListener('load', () => {
         if (messageDisplay.innerHTML !== '') {
             clearButton.disabled = true;
             clearPreviousMsg();
-            clearButton.addClassList('change-to-default-color');
+            clearButton.classList.add('change-to-default-color');
         }
     }
     

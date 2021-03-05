@@ -7,10 +7,8 @@
 /* STYLING FOR THE CONTAINER OF THE PAGE */
 
 .div-page {
-  /* border: 2px solid red; */
-  /* background: #C9DAEA; */
   font-family: "Montserrat", sans-serif;
-  height: 812px;
+  height: 790px;
   margin: 0 auto;
   width: 375px;
 }
@@ -70,7 +68,7 @@ button {
   font-size: 1.1em;
   height: 60px;
   margin: 0 5em;
-  margin-top: calc(100% - 315px);
+  margin-top: calc(100% - 325px);
   width: 200px;
 }
 
